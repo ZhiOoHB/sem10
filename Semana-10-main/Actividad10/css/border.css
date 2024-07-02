@@ -1,0 +1,21 @@
+h1{
+    /* border: grosor, estiloLinea,... ~+[color] */
+    border: 1px solid #ff0000;
+}
+p{
+    border-width: 10px ;
+    border-style: solid;
+    border-color: brown;
+}
+h2{
+    border-top: 3px dashed coral;
+    border-bottom: 5px solid blue;
+    border-left: 12px dotted orange;
+    border-right: 15px double yellowgreen;
+}
+p.parrafo{
+    border-top: 12px dashed aquamarine;
+    border-bottom: 10px solid rgb(0, 228, 152);
+    border-left: 5px dotted rgb(65, 0, 65);
+    border-right: 10px solid rgb(201, 201, 201);
+}
